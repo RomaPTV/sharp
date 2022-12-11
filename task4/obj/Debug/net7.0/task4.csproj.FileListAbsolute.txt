@@ -1,0 +1,15 @@
+E:\GeekBrains\iT\Homework\task4\bin\Debug\net7.0\task4.exe
+E:\GeekBrains\iT\Homework\task4\bin\Debug\net7.0\task4.deps.json
+E:\GeekBrains\iT\Homework\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+E:\GeekBrains\iT\Homework\task4\bin\Debug\net7.0\task4.dll
+E:\GeekBrains\iT\Homework\task4\bin\Debug\net7.0\task4.pdb
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.csproj.AssemblyReference.cache
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.dll
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\refint\task4.dll
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.pdb
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+E:\GeekBrains\iT\Homework\task4\obj\Debug\net7.0\ref\task4.dll
