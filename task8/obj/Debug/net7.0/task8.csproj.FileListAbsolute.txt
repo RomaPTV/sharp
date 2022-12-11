@@ -1,0 +1,5 @@
+C:\Users\79323\Desktop\Учеба iT\Homework\task8\obj\Debug\net7.0\task8.csproj.AssemblyReference.cache
+C:\Users\79323\Desktop\Учеба iT\Homework\task8\obj\Debug\net7.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79323\Desktop\Учеба iT\Homework\task8\obj\Debug\net7.0\task8.AssemblyInfoInputs.cache
+C:\Users\79323\Desktop\Учеба iT\Homework\task8\obj\Debug\net7.0\task8.AssemblyInfo.cs
+C:\Users\79323\Desktop\Учеба iT\Homework\task8\obj\Debug\net7.0\task8.csproj.CoreCompileInputs.cache
